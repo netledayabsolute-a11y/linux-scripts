@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Hello, DevOps!"
-
+echo "Салют, $USER! Добро пожаловать на сервер!"
+echo "Текущее время: $(date)"
